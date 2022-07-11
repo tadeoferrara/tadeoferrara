@@ -18,7 +18,7 @@
 <h3 align="left">Conecte conmigo:</h3>
 <p align="left">
 <a href="https://instagram.com/tadeoferrara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tadeoferrara" height="30" width="40" /></a>
-<a href="/https://taddev.netlify.app/portafolio.html#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://taddev.netlify.app/portafolio.html#" height="30" width="40" /></a>
+<a href="/https://taddev.netlify.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://taddev.netlify.app/portafolio.html#" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
