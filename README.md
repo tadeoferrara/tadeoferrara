@@ -9,7 +9,7 @@
 
 - 🤝 Esto es para unas personitas [SOS community manager](https://www.soscommunitymanager.com)
 
-- 🤝 Un lugar especial en la web [Mi portafolio](https://taddev.netlify.app/portafolio.html#)
+- 🤝 Un lugar especial en la web [Mi portafolio](https://taddev.netlify.app)
 
 - 💬 Preguntame sobre **Angular**
 
